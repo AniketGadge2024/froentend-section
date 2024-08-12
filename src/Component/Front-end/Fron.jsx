@@ -9,7 +9,7 @@ function Fron() {
 <NavBar/>
 
 <div className="flex justify-center  flex-col items-center">
-        <div className="cont201     mt-28  ) ">
+        <div className="cont201     mt-2  ) ">
           <div className="con2 w-full h-full items-end flex rounded-xl">
             <div className="flex flex-col    gap-4  w-full mb-16 pl-20   max-sm:pl-3">
               <h1 className="text-white text-4xl font-bold   ">
